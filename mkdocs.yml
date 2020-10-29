@@ -1,0 +1,6 @@
+site_name: HBUHSD WorkSpace One
+nav:
+    - Home: index.md
+    - Windows Devices: about.md
+    - Apple Macbooks: about2.md
+    - Apple iPads: about3.md
