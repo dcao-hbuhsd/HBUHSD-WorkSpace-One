@@ -6,3 +6,6 @@ nav:
     - Windows Devices: Windows.md
     - Apple Macbooks: Macbooks.md
     - Apple iPads: iPads.md
+theme: 
+    name: yeti
+    nav_style: light
