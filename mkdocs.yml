@@ -1,4 +1,6 @@
 site_name: HBUHSD WorkSpace One
+site_url: https://dcao-hbuhsd.github.io/HBUHSD-WorkSpace-One/
+repo_url: https://github.com/dcao-hbuhsd/HBUHSD-WorkSpace-One
 nav:
     - Home: index.md
     - Windows Devices: Windows.md

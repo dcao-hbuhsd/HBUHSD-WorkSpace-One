@@ -43,7 +43,7 @@ On the Sign in with Microsoft screen, type your HBUHSD Microsoft Account. This s
 
 On the Enter your password screen, type your Microsoft account password. Note, this could be different from what you use to log into Gmail. If you are unsure, please contact the IS HelpDesk for assistance. (#52 on Office Phones)
 
-![alt text](l2.png)
+![alt text](/images/l2.png)
 
 ## Step 6: Choose your School Site
 
