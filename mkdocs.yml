@@ -6,6 +6,21 @@ nav:
     - Windows Devices: Windows.md
     - Apple Macbooks: Macbooks.md
     - Apple iPads: iPads.md
-theme: 
-    name: yeti
-    nav_style: light
+theme:
+
+  # the next 2 lines are required to use the DIB version
+  name: null
+  custom_dir: 'mkdocs-material-dib/material'
+
+  # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+  
+  # fun logos! see https://material.io/icons/
+  logo:
+    icon: 'dns'
+
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'

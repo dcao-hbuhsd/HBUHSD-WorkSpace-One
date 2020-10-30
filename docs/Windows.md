@@ -47,7 +47,7 @@ On the Enter your password screen, type your Microsoft account password. Note, t
 
 ## Step 6: Choose your School Site
 
-Your device will now start automatically start the HBUHSD enrollment process. On the Choose Your Group page, please select what schoolsite you are picking the device up from.
+Your device will now automatically start the HBUHSD enrollment process. On the Choose Your Group page, please select what schoolsite you are picking the device up from.
 
 ![alt text](./images/CYG.png)
 
