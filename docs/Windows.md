@@ -39,37 +39,37 @@ Join a network that has internet access. Location does not matter. If you are on
 
 On the Sign in with Microsoft screen, type your HBUHSD Microsoft Account. This should be the same email as your gmail. An example would be jsmith@hbuhsd.edu. 
 
-![alt text](/docs/images/l1.png)
+![alt text](/images/l1.png)
 
 On the Enter your password screen, type your Microsoft account password. Note, this could be different from what you use to log into Gmail. If you are unsure, please contact the IS HelpDesk for assistance. (#52 on Office Phones)
 
-![alt text](/docs/images/l2.png)
+![alt text](l2.png)
 
 ## Step 6: Choose your School Site
 
 Your device will now start automatically start the HBUHSD enrollment process. On the Choose Your Group page, please select what schoolsite you are picking the device up from.
 
-![alt text](/docs/images/CYG.png)
+![alt text](/images/CYG.png)
 
 ## Step 7 Miscellaneous Settings
 
 Finish up the rest of the setup. Here you can choose your Privacy Settings & Activity History. Disabling both will not cause any issues.
-![alt text](/docs/images/Privacy.png)
-![alt text](/docs/images/AH.png)
+![alt text](/images/Privacy.png)
+![alt text](/images/AH.png)
 
 Windows will now start configuring everything. Please allow it to grab the computer's assigned configuration.
-![alt text](/docs/images/1.png)
+![alt text](/images/1.png)
 
 After everything is done, you will be presented with the Use Windows Hello with your account screen. Please allow a few second for a configuration to take effect. This will trigger an automatic restart.
-![alt text](/docs/images/2.png)
+![alt text](/images/2.png)
 
 ## Step 8: Finalizing
 Your computer will now be ready to be logged in for the first time. Press Control+Alt+Delete at the same time to access the login screen.
-![alt text](/docs/images/3.png)
+![alt text](/images/3.png)
 
 Use your Microsoft Account to log in. 
-![alt text](/docs/images/4.png)
+![alt text](/images/4.png)
 
 **After logging on, there will be one more restart activated from the computer configurations. Please wait until then.** After the restart, log back in and our HBUHSD software package should automatically start downloading. If you are on a hotspot, it is recommended that you find a different source for internet so you don't use up all of your data. You are now all good to go.
 
-![alt text](/docs/images/6.png)
+![alt text](/images/6.png)
