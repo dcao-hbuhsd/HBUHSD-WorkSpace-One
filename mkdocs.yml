@@ -1,8 +1,28 @@
 site_name: HBUHSD WorkSpace One
-site_url: https://dcao-hbuhsd.github.io/HBUHSD-WorkSpace-One/
-repo_url: https://github.com/dcao-hbuhsd/HBUHSD-WorkSpace-One
 nav:
     - Home: index.md
     - Windows Devices: Windows.md
     - Apple Macbooks: Macbooks.md
     - Apple iPads: iPads.md
+theme:
+  # the next 2 lines are required to use the DIB version
+  name: null
+  custom_dir: 'mkdocs-material-dib/material'
+  
+  # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+  palette:
+    primary: 'blue'
+    accent: 'grey'
+  
+  # fun logos! see https://material.io/icons/
+  logo: ./images/HBUHSD.png
+
+  favicon: ./images/HBUHSD.png
+
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# this will add docs/css/custom.css to all your docs
+extra_css:
+  - css/custom.css
