@@ -2,8 +2,8 @@
 
 Please select one of the following devices below or at the top to setup.
 
-[Windows](https://dcao-hbuhsd.github.io/HBUHSD-WorkSpace-One/Windows/)
+[Windows](Windows.md)
 
-[Macbooks](https://dcao-hbuhsd.github.io/HBUHSD-WorkSpace-One/Macbooks/)
+[Macbooks](Macbooks.md/)
 
-[iPads](https://dcao-hbuhsd.github.io/HBUHSD-WorkSpace-One/iPads/)
+[iPads](iPads.md/)
