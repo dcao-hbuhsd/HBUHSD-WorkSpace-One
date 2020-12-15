@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://ws1.hbuhsd.edu/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <lastmod>2020-12-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ws1.hbuhsd.edu/Bundle/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <lastmod>2020-12-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ws1.hbuhsd.edu/Windows/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <lastmod>2020-12-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ws1.hbuhsd.edu/Macbooks/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <lastmod>2020-12-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ws1.hbuhsd.edu/iPads/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <lastmod>2020-12-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ws1.hbuhsd.edu/MAID/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <lastmod>2020-12-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ws1.hbuhsd.edu/TS/</loc>
-     <lastmod>2020-12-07</lastmod>
+     <lastmod>2020-12-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ws1.hbuhsd.edu/Notes/</loc>
+     <lastmod>2020-12-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
